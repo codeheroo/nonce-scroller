@@ -1,0 +1,6 @@
+{
+  "provider": "https://rpc.ankr.com/eth",
+  "privatekey": "",
+  "count": 5,
+  "gasPriceGwei": "3"
+}
